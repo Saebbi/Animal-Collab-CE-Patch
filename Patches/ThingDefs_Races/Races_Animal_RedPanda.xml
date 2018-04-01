@@ -49,7 +49,7 @@
 							<capacities><li>Scratch</li></capacities>
 							<power>4</power>
 							<cooldownTime>1.5</cooldownTime>
-							<linkedBodyPartsGroup>RightLeftPaw</linkedBodyPartsGroup>
+							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
 								<extraMeleeDamages>
 									<li>

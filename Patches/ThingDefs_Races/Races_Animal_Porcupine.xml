@@ -49,7 +49,7 @@
 							<capacities><li>Scratch</li></capacities>
 							<power>6</power>
 							<cooldownTime>1.8</cooldownTime>
-							<linkedBodyPartsGroup>RightLeftPaw</linkedBodyPartsGroup>
+							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">

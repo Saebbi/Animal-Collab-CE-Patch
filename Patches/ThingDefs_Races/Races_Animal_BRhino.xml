@@ -29,7 +29,7 @@
 				<value>
 					<tools>
 						<li Class="CombatExtended.ToolCE">
-							<label>horn</label>
+							<label>horn (Scratch)</label>
 							<capacities><li>Scratch</li></capacities>
 							<power>15</power>
 							<cooldownTime>1.65</cooldownTime>
@@ -37,7 +37,7 @@
 							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
-							<label>horn</label>
+							<label>horn (Blunt)</label>
 							<capacities><li>Blunt</li></capacities>
 							<power>17</power>
 							<cooldownTime>1.65</cooldownTime>

@@ -31,7 +31,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>11</power>
+							<power>16</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -47,7 +47,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>11</power>
+							<power>16</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -62,7 +62,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>13</power>
+							<power>22</power>
 							<cooldownTime>2.0</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -103,7 +103,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>14</power>
+							<power>19</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -119,7 +119,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>14</power>
+							<power>19</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -134,7 +134,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>16</power>
+							<power>25</power>
 							<cooldownTime>2.0</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -175,7 +175,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>16</power>
+							<power>21</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -191,7 +191,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>16</power>
+							<power>21</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -206,7 +206,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>19</power>
+							<power>28</power>
 							<cooldownTime>2.0</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -247,7 +247,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>16</power>
+							<power>21</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -263,7 +263,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>16</power>
+							<power>21</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -278,7 +278,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>19</power>
+							<power>28</power>
 							<cooldownTime>2.0</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
