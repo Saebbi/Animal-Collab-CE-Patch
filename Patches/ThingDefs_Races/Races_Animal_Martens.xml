@@ -130,7 +130,7 @@
 							<capacities><li>Slash</li></capacities>
 							<power>3</power>
 							<cooldownTime>1.5</cooldownTime>
-							<linkedBodyPartsGroup>RightLeftPaw</linkedBodyPartsGroup>
+							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
 								<extraMeleeDamages>
 									<li>

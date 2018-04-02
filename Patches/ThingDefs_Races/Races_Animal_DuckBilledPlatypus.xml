@@ -31,7 +31,9 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>spurs</label>
 							<capacities>
-							<capacities><li>PlatypusSting</li></capacities>
+							<capacities>
+								<li>PlatypusSting</li>
+							</capacities>
 							</capacities>
 							<power>7</power>
 							<cooldownTime>1.9</cooldownTime>
