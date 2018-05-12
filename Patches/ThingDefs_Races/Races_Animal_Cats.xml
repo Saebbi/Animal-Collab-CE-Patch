@@ -6,9 +6,9 @@
 			<li Class="CombatExtended.PatchOperationFindMod">
 				<modName>AnimalCollabProj</modName>
 			</li>
-	
+			
 			<li Class="PatchOperationAddModExtension">
-				<xpath>*/ThingDef[defName="ACPLion"]</xpath>
+				<xpath>*/ThingDef[@Name="BigCatThingBase"]</xpath>
 				<value>
 				<li Class="CombatExtended.RacePropertiesExtensionCE">
 					<bodyShape>Quadruped</bodyShape>
@@ -17,9 +17,9 @@
 			</li>
 						
 			<li Class="PatchOperationAdd">
-				<xpath>*/ThingDef[defName="ACPLion"]/statBases</xpath>
+				<xpath>*/ThingDef[@Name="BigCatThingBase"]/statBases</xpath>
 				<value>
-				<MeleeDodgeChance>0.09</MeleeDodgeChance>
+				<MeleeDodgeChance>0.17</MeleeDodgeChance>
 				<MeleeCritChance>0.4</MeleeCritChance>
 				</value>
 			</li>
@@ -31,7 +31,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>20</power>
+							<power>16</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -47,7 +47,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>20</power>
+							<power>16</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -62,7 +62,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>22</power>
+							<power>18</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -76,23 +76,6 @@
 							<armorPenetration>0.65</armorPenetration>
 						</li>
 					</tools>
-				</value>
-			</li>
-			
-			<li Class="PatchOperationAddModExtension">
-				<xpath>*/ThingDef[defName="ACPTiger"]</xpath>
-				<value>
-				<li Class="CombatExtended.RacePropertiesExtensionCE">
-					<bodyShape>Quadruped</bodyShape>
-				</li>
-				</value>
-			</li>
-						
-			<li Class="PatchOperationAdd">
-				<xpath>*/ThingDef[defName="ACPTiger"]/statBases</xpath>
-				<value>
-				<MeleeDodgeChance>0.1</MeleeDodgeChance>
-				<MeleeCritChance>0.2</MeleeCritChance>
 				</value>
 			</li>
 			
@@ -103,7 +86,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>20</power>
+							<power>16</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -119,7 +102,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>20</power>
+							<power>16</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -134,7 +117,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>22</power>
+							<power>18</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -150,23 +133,6 @@
 					</tools>
 				</value>
 			</li>
-
-			<li Class="PatchOperationAddModExtension">
-				<xpath>*/ThingDef[defName="ACPCheetah"]</xpath>
-				<value>
-				<li Class="CombatExtended.RacePropertiesExtensionCE">
-					<bodyShape>Quadruped</bodyShape>
-				</li>
-				</value>
-			</li>
-						
-			<li Class="PatchOperationAdd">
-				<xpath>*/ThingDef[defName="ACPCheetah"]/statBases</xpath>
-				<value>
-				<MeleeDodgeChance>0.17</MeleeDodgeChance>
-				<MeleeCritChance>0.2</MeleeCritChance>
-				</value>
-			</li>
 			
 			<li Class="PatchOperationReplace">
 				<xpath>*/ThingDef[defName="ACPCheetah"]/tools</xpath>
@@ -175,7 +141,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>14</power>
+							<power>10</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -191,7 +157,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>14</power>
+							<power>10</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -206,7 +172,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>18</power>
+							<power>14</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -223,23 +189,6 @@
 				</value>
 			</li>
 			
-			<li Class="PatchOperationAddModExtension">
-				<xpath>*/ThingDef[defName="ACPAmurLeopard"]</xpath>
-				<value>
-				<li Class="CombatExtended.RacePropertiesExtensionCE">
-					<bodyShape>Quadruped</bodyShape>
-				</li>
-				</value>
-			</li>
-						
-			<li Class="PatchOperationAdd">
-				<xpath>*/ThingDef[defName="ACPAmurLeopard"]/statBases</xpath>
-				<value>
-				<MeleeDodgeChance>0.11</MeleeDodgeChance>
-				<MeleeCritChance>0.2</MeleeCritChance>
-				</value>
-			</li>
-			
 			<li Class="PatchOperationReplace">
 				<xpath>*/ThingDef[defName="ACPAmurLeopard"]/tools</xpath>
 				<value>
@@ -247,7 +196,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>15</power>
+							<power>12</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -263,7 +212,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>15</power>
+							<power>12</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -278,7 +227,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>26</power>
+							<power>22</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -295,23 +244,6 @@
 				</value>
 			</li>
 			
-			<li Class="PatchOperationAddModExtension">
-				<xpath>*/ThingDef[defName="ACPSnowLeopard"]</xpath>
-				<value>
-				<li Class="CombatExtended.RacePropertiesExtensionCE">
-					<bodyShape>Quadruped</bodyShape>
-				</li>
-				</value>
-			</li>
-						
-			<li Class="PatchOperationAdd">
-				<xpath>*/ThingDef[defName="ACPSnowLeopard"]/statBases</xpath>
-				<value>
-				<MeleeDodgeChance>0.12</MeleeDodgeChance>
-				<MeleeCritChance>0.2</MeleeCritChance>
-				</value>
-			</li>
-			
 			<li Class="PatchOperationReplace">
 				<xpath>*/ThingDef[defName="ACPSnowLeopard"]/tools</xpath>
 				<value>
@@ -319,7 +251,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>left claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>14</power>
+							<power>12</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -335,7 +267,7 @@
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
 							<capacities><li>Slash</li></capacities>
-							<power>14</power>
+							<power>12</power>
 							<cooldownTime>1.5</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<surpriseAttack>
@@ -350,7 +282,7 @@
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
-							<power>25</power>
+							<power>21</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
 							<surpriseAttack>
