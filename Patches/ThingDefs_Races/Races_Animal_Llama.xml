@@ -37,7 +37,7 @@
 							<power>8</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup>
-							<armorPenetration>0.15</armorPenetration>
+							<armorPenetration>0.1</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right hoof</label>
@@ -48,7 +48,7 @@
 							<power>8</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup>
-							<armorPenetration>0.15</armorPenetration>
+							<armorPenetration>0.1</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>

@@ -34,7 +34,7 @@
 							<power>7</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Antlers</linkedBodyPartsGroup>
-							<armorPenetration>0.3</armorPenetration>
+							<armorPenetration>0.22</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>head</label>
@@ -49,7 +49,7 @@
 							<power>3</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
-							<armorPenetration>0.3</armorPenetration>
+							<armorPenetration>0.22</armorPenetration>
 						</li>
 					</tools>
 				</value>

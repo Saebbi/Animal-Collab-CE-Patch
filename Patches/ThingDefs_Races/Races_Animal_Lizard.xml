@@ -34,7 +34,7 @@
 							<power>8</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftClaws</linkedBodyPartsGroup>
-							<armorPenetration>0.2</armorPenetration>
+							<armorPenetration>0.12</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -42,14 +42,14 @@
 							<power>8</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightClaws</linkedBodyPartsGroup>
-							<armorPenetration>0.2</armorPenetration>
+							<armorPenetration>0.12</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
 							<power>10</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
-							<armorPenetration>0.45</armorPenetration>
+							<armorPenetration>0.28</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -82,7 +82,7 @@
 							<power>3</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftClaws</linkedBodyPartsGroup>
-							<armorPenetration>0.15</armorPenetration>
+							<armorPenetration>0.12</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -90,14 +90,14 @@
 							<power>3</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightClaws</linkedBodyPartsGroup>
-							<armorPenetration>0.15</armorPenetration>
+							<armorPenetration>0.12</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
 							<power>4</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.28</armorPenetration>
 						</li>
 					</tools>
 				</value>

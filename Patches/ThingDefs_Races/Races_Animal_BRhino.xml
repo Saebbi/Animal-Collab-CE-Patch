@@ -34,7 +34,7 @@
 							<power>15</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup>
-							<armorPenetration>0.2</armorPenetration>
+							<armorPenetration>0.12</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>horn (Blunt)</label>
@@ -49,7 +49,7 @@
 							<power>12</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
-							<armorPenetration>0.2</armorPenetration>
+							<armorPenetration>0.18</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>head</label>

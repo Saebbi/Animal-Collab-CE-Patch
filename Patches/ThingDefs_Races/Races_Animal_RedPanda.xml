@@ -42,7 +42,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.25</armorPenetration>
+							<armorPenetration>0.15</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -58,7 +58,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.25</armorPenetration>
+							<armorPenetration>0.15</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>

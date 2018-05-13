@@ -42,7 +42,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -58,7 +58,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
@@ -73,7 +73,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.65</armorPenetration>
+							<armorPenetration>0.45</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -97,7 +97,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -113,7 +113,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
@@ -128,7 +128,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.65</armorPenetration>
+							<armorPenetration>0.35</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -152,7 +152,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -168,7 +168,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
@@ -183,7 +183,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.55</armorPenetration>
+							<armorPenetration>0.4</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -207,7 +207,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -223,7 +223,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
@@ -238,7 +238,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.7</armorPenetration>
+							<armorPenetration>0.45</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -262,7 +262,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -278,7 +278,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.25</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>
@@ -293,7 +293,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.7</armorPenetration>
+							<armorPenetration>0.4</armorPenetration>
 						</li>
 					</tools>
 				</value>

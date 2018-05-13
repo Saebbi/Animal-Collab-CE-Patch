@@ -33,7 +33,7 @@
 							<power>3</power>
 							<cooldownTime>1.85</cooldownTime>
 							<linkedBodyPartsGroup>Beak</linkedBodyPartsGroup>
-							<armorPenetration>0.15</armorPenetration>
+							<armorPenetration>0.1</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>head</label>

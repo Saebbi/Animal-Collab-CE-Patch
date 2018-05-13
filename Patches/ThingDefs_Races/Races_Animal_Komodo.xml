@@ -34,7 +34,7 @@
 							<power>7</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftClaws</linkedBodyPartsGroup>
-							<armorPenetration>0.3</armorPenetration>
+							<armorPenetration>0.19</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>right claw</label>
@@ -42,14 +42,14 @@
 							<power>7</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightClaws</linkedBodyPartsGroup>
-							<armorPenetration>0.3</armorPenetration>
+							<armorPenetration>0.19</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>ToxicBite</li></capacities>
 							<power>15</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
-							<armorPenetration>0.65</armorPenetration>
+							<armorPenetration>0.5</armorPenetration>
 						</li>
 					</tools>
 				</value>

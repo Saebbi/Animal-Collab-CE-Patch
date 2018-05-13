@@ -34,7 +34,7 @@
 							<power>4</power>
 							<cooldownTime>1.25</cooldownTime>
 							<linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>
-							<armorPenetration>0.3</armorPenetration>
+							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<capacities><li>Bite</li></capacities>

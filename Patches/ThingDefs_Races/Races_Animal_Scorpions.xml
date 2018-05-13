@@ -42,7 +42,7 @@
 							<power>9</power>
 							<cooldownTime>1.9</cooldownTime>
 							<linkedBodyPartsGroup>PincerAttackTool</linkedBodyPartsGroup>
-							<armorPenetration>0.2</armorPenetration>
+							<armorPenetration>0.1</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>head</label>
