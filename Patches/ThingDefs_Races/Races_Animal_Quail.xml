@@ -3,8 +3,13 @@
 	<Operation Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
-			<li Class="CombatExtended.PatchOperationFindMod">
+			<li Class="ModCheck.FindFile">
 				<modName>AnimalCollabProj</modName>
+				<file>Races_Animal_Quail.xml</file>
+			</li>
+			<li Class="ModCheck.IsModLoaded">
+				<modName>Combat Extended</modName>
+				<yourMod>AnimalCollab CE Patch</yourMod>
 			</li>
 	
 			<li Class="PatchOperationAddModExtension">
