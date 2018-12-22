@@ -3,10 +3,6 @@
 	<Operation Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
-			<li Class="ModCheck.FindFile">
-				<modName>AnimalCollabProj</modName>
-				<file>Races_Animal_Cats.xml</file>
-			</li>
 			<li Class="ModCheck.IsModLoaded">
 				<modName>Combat Extended</modName>
 				<yourMod>AnimalCollab CE Patch</yourMod>
@@ -21,11 +17,16 @@
 				</value>
 			</li>
 						
-			<li Class="PatchOperationAdd">
+			<li Class="PatchOperationReplace">
 				<xpath>*/ThingDef[@Name="BigCatThingBase"]/statBases</xpath>
 				<value>
-				<MeleeDodgeChance>0.17</MeleeDodgeChance>
-				<MeleeCritChance>0.4</MeleeCritChance>
+					<statBases>
+						<MoveSpeed>6.5</MoveSpeed>
+						<ComfyTemperatureMin>-8</ComfyTemperatureMin>
+						<MarketValue>650</MarketValue>
+						<MeleeDodgeChance>0.17</MeleeDodgeChance>
+						<MeleeCritChance>0.4</MeleeCritChance>
+					</statBases>
 				</value>
 			</li>
 			
@@ -78,7 +79,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.45</armorPenetration>
+							<armorPenetration>0.32</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -133,7 +134,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.34</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -188,7 +189,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.28</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -243,7 +244,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.45</armorPenetration>
+							<armorPenetration>0.42</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -298,7 +299,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.4</armorPenetration>
+							<armorPenetration>0.38</armorPenetration>
 						</li>
 					</tools>
 				</value>

@@ -3,10 +3,6 @@
 	<Operation Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
-			<li Class="ModCheck.FindFile">
-				<modName>AnimalCollabProj</modName>
-				<file>Races_Animal_Silkie.xml</file>
-			</li>
 			<li Class="ModCheck.IsModLoaded">
 				<modName>Combat Extended</modName>
 				<yourMod>AnimalCollab CE Patch</yourMod>
@@ -47,7 +43,7 @@
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
 							<armorPenetration>0.1</armorPenetration>
-							<commonality>0.2</commonality>
+							<chanceFactor>0.2</chanceFactor>
 						</li>
 					</tools>
 				</value>

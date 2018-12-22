@@ -3,10 +3,6 @@
 	<Operation Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
-			<li Class="ModCheck.FindFile">
-				<modName>AnimalCollabProj</modName>
-				<file>Races_Animal_WildDog.xml</file>
-			</li>
 			<li Class="ModCheck.IsModLoaded">
 				<modName>Combat Extended</modName>
 				<yourMod>AnimalCollab CE Patch</yourMod>
@@ -78,7 +74,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.45</armorPenetration>
+							<armorPenetration>0.28</armorPenetration>
 						</li>
 					</tools>
 				</value>

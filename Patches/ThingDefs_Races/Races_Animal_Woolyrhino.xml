@@ -3,10 +3,6 @@
 	<Operation Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
-			<li Class="ModCheck.FindFile">
-				<modName>AnimalCollabProj</modName>
-				<file>Races_Animal_Woolyrhino.xml</file>
-			</li>
 			<li Class="ModCheck.IsModLoaded">
 				<modName>Combat Extended</modName>
 				<yourMod>AnimalCollab CE Patch</yourMod>
@@ -34,7 +30,6 @@
 				<value>
 					<tools>
 						<li Class="CombatExtended.ToolCE">
-							<id>hornScratch</id>
 							<label>horn</label>
 							<capacities><li>Slash</li></capacities>
 							<power>15</power>
@@ -43,7 +38,6 @@
 							<armorPenetration>0.35</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
-							<id>hornBlunt</id>
 							<label>horn</label>
 							<capacities><li>Blunt</li></capacities>
 							<power>17</power>

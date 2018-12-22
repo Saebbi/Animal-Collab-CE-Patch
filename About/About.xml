@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>AnimalCollab CE Patch</name>
   <author>Saebbi</author>
-  <targetVersion>0.18.1722</targetVersion>
+  <targetVersion>1.0.0</targetVersion>
   <description>
 Makes the AnimalCollab mod compatible with Combat Extended.
 </description>

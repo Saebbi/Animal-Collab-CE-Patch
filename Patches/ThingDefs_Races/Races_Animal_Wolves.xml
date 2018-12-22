@@ -3,10 +3,6 @@
 	<Operation Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
-			<li Class="ModCheck.FindFile">
-				<modName>AnimalCollabProj</modName>
-				<file>Races_Animal_Wolves.xml</file>
-			</li>
 			<li Class="ModCheck.IsModLoaded">
 				<modName>Combat Extended</modName>
 				<yourMod>AnimalCollab CE Patch</yourMod>
@@ -78,7 +74,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.75</armorPenetration>
+							<armorPenetration>0.48</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -150,7 +146,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>0.9</armorPenetration>
+							<armorPenetration>0.52</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -222,7 +218,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>1.0</armorPenetration>
+							<armorPenetration>0.64</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -294,7 +290,7 @@
 									</li>
 								</extraMeleeDamages>
 							</surpriseAttack>
-							<armorPenetration>1.0</armorPenetration>
+							<armorPenetration>0.64</armorPenetration>
 						</li>
 					</tools>
 				</value>
