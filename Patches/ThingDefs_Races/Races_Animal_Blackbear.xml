@@ -26,7 +26,7 @@
 			</li>
 			
 			<li Class="PatchOperationAdd">
-				<xpath>*/ThingDef[defName="ACPBlackbear"]/tools</xpath>
+				<xpath>*/ThingDef[defName="ACPBlackbear"]</xpath>
 				<value>
 					<tools>
 						<li Class="CombatExtended.ToolCE">
