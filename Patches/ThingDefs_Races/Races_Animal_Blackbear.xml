@@ -34,7 +34,7 @@
 							<capacities><li>Slash</li></capacities>
 							<power>15</power>
 							<cooldownTime>1.65</cooldownTime>
-							<linkedBodyPartsGroup>LeftFrontPaw</linkedBodyPartsGroup>
+							<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
 							<armorPenetration>0.2</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
@@ -42,7 +42,7 @@
 							<capacities><li>Slash</li></capacities>
 							<power>17</power>
 							<cooldownTime>1.65</cooldownTime>
-							<linkedBodyPartsGroup>RightFrontPaw</linkedBodyPartsGroup>
+							<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
 							<armorPenetration>0.15</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
